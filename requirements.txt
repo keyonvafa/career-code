@@ -1,0 +1,5 @@
+numpy==1.22.2
+scikit-learn==1.0.2
+tensorboard==2.8.0
+torch==1.10.2
+tensorboardX==2.5
