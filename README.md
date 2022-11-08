@@ -1,5 +1,6 @@
-# Learning Transferrable Representations of Career Trajectories for Economic Prediction
-Code for the paper: [Learning Transferrable Representations of Career Trajectories for Economic Prediction](https://arxiv.org/abs/2202.08370).
+# CAREER: Transfer Learning for Economic Prediction of Labor Sequence Data
+Code for the paper: [CAREER: Transfer Learning for Economic Prediction of Labor Sequence Data
+](https://arxiv.org/abs/2202.08370).
 
 <p align="center">
 <img src="https://github.com/keyonvafa/career-code/blob/main/analysis/figs/CAREER_wide.png"   --width="370" height="370" />
