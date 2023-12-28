@@ -13,7 +13,7 @@ CAREER is a transformer-based model that learns a low-dimensional representation
 The instructions below will first pretrain CAREER's representations on a resume dataset and then fine-tune these representations on a small survey dataset. This code assumes that you have access to resume data and to a survey dataset such as [NLSY](https://www.bls.gov/nls/nlsy97.htm) or [PSID](https://psidonline.isr.umich.edu).
 
 ### Software requirements and installation
-Configure a virtual environment using Python 3.6+ ([instructions here](https://docs.python.org/3.6/tutorial/venv.html)).
+Configure a virtual environment using Python 3.9+ ([instructions here](https://docs.python.org/3.6/tutorial/venv.html)).
 Inside the virtual environment, use `pip` to install the required packages:
 
 ```{bash}
