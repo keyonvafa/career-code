@@ -1,5 +1,5 @@
-# CAREER: A Foudation Model for Labor Sequence Data
-Code for the paper: [CAREER: A Foudation Model for Labor Sequence Data.
+# CAREER: A Foundation Model for Labor Sequence Data
+Code for the paper: [CAREER: A Foundation Model for Labor Sequence Data.
 ](https://arxiv.org/abs/2202.08370)
 
 <p align="center">
